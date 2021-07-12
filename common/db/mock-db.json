@@ -1,5 +1,43 @@
 {
-    "submissions": [],
-    "issues": [],
-    "users": []
+  "submissions": [
+    {
+      "_href": "https://en.wikipedia.org/wiki/Natalia_Goncharova",
+      "abstract": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "id": 1,
+      "doi": "asd123qwevbn567yui"
+    }
+  ],
+  "issues": [
+    {
+      "_href": "https://en.wikipedia.org/wiki/Natalia_Goncharova",
+      "abstract": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "id": 1,
+      "doi": "60vltklfgkertkdl456"
+    },
+    {
+      "_href": "https://en.wikipedia.org/wiki/Natalia_Goncharova",
+      "abstract": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "id": 2,
+      "doi": "asdlaskdjlr23434mcvb456"
+    },
+    {
+      "_href": "https://en.wikipedia.org/wiki/Natalia_Goncharova",
+      "abstract": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "id": 3,
+      "doi": "1qwdfbl0987yhjnbfr56yh"
+    },
+    {
+      "_href": "https://en.wikipedia.org/wiki/Natalia_Goncharova",
+      "abstract": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "id": 4,
+      "doi": "1qaz5tgb6yhn8ikrf"
+    },
+    {
+      "_href": "https://en.wikipedia.org/wiki/Natalia_Goncharova",
+      "abstract": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "id": 5,
+      "doi": "1qasd2345678iolkjhgb"
+    }
+  ],
+  "users": []
 }
