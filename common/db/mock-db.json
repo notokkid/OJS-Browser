@@ -2,9 +2,78 @@
   "submissions": [
     {
       "_href": "https://en.wikipedia.org/wiki/Natalia_Goncharova",
+      "title": "Does Covid-19 raise the housing prices?",
       "abstract": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
       "id": 1,
-      "doi": "asd123qwevbn567yui"
+      "doi": "e5ba964f-52be-4d27-9151-abc14eab18b6",
+      "authors": [
+        {
+          "fullName": "Ivan Lazarevski"
+        },
+        {
+          "fullName": "Blagoja Grozdanovski"
+        }
+      ]
+    },
+    {
+      "_href": "https://en.wikipedia.org/wiki/Natalia_Goncharova",
+      "title": "Does League of Legends cause autism?",
+      "abstract": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "id": 2,
+      "doi": "c6f73511-7664-4aa1-855d-278b2fa0dd21",
+      "authors": [
+        {
+          "fullName": "Stojan Ezhov"
+        },
+        {
+          "fullName": "Blagoja Grozdanovski"
+        }
+      ]
+    },
+    {
+      "_href": "https://en.wikipedia.org/wiki/Natalia_Goncharova",
+      "title": "Does Dota 2 cause infertility?",
+      "abstract": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "id": 3,
+      "doi": "73958ad0-edd8-4ee7-bc4c-3ee2c22ebb25",
+      "authors": [
+        {
+          "fullName": "Dante Korvinus"
+        },
+        {
+          "fullName": "Jovce Vretovski"
+        }
+      ]
+    },
+    {
+      "_href": "https://en.wikipedia.org/wiki/Natalia_Goncharova",
+      "title": "Does Valorant make you gay?",
+      "abstract": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "id": 4,
+      "doi": "27b76284-53d0-478b-a00d-47a3d5c8768e",
+      "authors": [
+        {
+          "fullName": "Jovce Vretovski"
+        }
+      ]
+    },
+    {
+      "_href": "https://en.wikipedia.org/wiki/Natalia_Goncharova",
+      "title": "Will Witcher 3 molest the housing prices?",
+      "abstract": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "id": 5,
+      "doi": "cbf5ea5a-1b06-4aa0-a234-eb70efdd8f2f",
+      "authors": [
+        {
+          "fullName": "Ivan Lazarevski"
+        },
+        {
+          "fullName": "Jovana Gerasimovska"
+        },
+        {
+          "fullName": "Blagoja Grozdanovski"
+        }
+      ]
     }
   ],
   "issues": [
